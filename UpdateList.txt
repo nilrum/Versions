@@ -1,0 +1,3 @@
+Atlas.exe
+trans.xml
+customs/atlas.xml
