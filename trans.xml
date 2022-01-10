@@ -1,0 +1,1413 @@
+<?xml version="1.0"?>
+<items kind="list">
+	<items0 type="TTransItem" kind="class">
+		<name value="Open" type="string" />
+		<rus value="Открыть" type="string" />
+		<eng value="" type="string" />
+	</items0>
+	<items1 type="TTransItem" kind="class">
+		<name value="File" type="string" />
+		<rus value="Файл" type="string" />
+		<eng value="" type="string" />
+	</items1>
+	<items2 type="TTransItem" kind="class">
+		<name value="New project" type="string" />
+		<rus value="Новый проект" type="string" />
+		<eng value="" type="string" />
+	</items2>
+	<items3 type="TTransItem" kind="class">
+		<name value="Open recent" type="string" />
+		<rus value="Открыть недавние" type="string" />
+		<eng value="" type="string" />
+	</items3>
+	<items4 type="TTransItem" kind="class">
+		<name value="Save" type="string" />
+		<rus value="Сохранить" type="string" />
+		<eng value="" type="string" />
+	</items4>
+	<items5 type="TTransItem" kind="class">
+		<name value="Save as.." type="string" />
+		<rus value="Сохранить как.." type="string" />
+		<eng value="" type="string" />
+	</items5>
+	<items6 type="TTransItem" kind="class">
+		<name value="Add data" type="string" />
+		<rus value="Добавить данные" type="string" />
+		<eng value="" type="string" />
+	</items6>
+	<items7 type="TTransItem" kind="class">
+		<name value="Add recent" type="string" />
+		<rus value="Добавить недавние" type="string" />
+		<eng value="" type="string" />
+	</items7>
+	<items8 type="TTransItem" kind="class">
+		<name value="Save LAS" type="string" />
+		<rus value="Сохранить LAS" type="string" />
+		<eng value="" type="string" />
+	</items8>
+	<items9 type="TTransItem" kind="class">
+		<name value="Close" type="string" />
+		<rus value="Выход" type="string" />
+		<eng value="" type="string" />
+	</items9>
+	<items10 type="TTransItem" kind="class">
+		<name value="Edit" type="string" />
+		<rus value="Редактировать" type="string" />
+		<eng value="" type="string" />
+	</items10>
+	<items11 type="TTransItem" kind="class">
+		<name value="Tools" type="string" />
+		<rus value="Инструменты" type="string" />
+		<eng value="" type="string" />
+	</items11>
+	<items12 type="TTransItem" kind="class">
+		<name value="Help" type="string" />
+		<rus value="Справка" type="string" />
+		<eng value="" type="string" />
+	</items12>
+	<items13 type="TTransItem" kind="class">
+		<name value="Construction" type="string" />
+		<rus value="Конструкция" type="string" />
+		<eng value="" type="string" />
+	</items13>
+	<items14 type="TTransItem" kind="class">
+		<name value="Add field" type="string" />
+		<rus value="Добавить поле" type="string" />
+		<eng value="" type="string" />
+	</items14>
+	<items15 type="TTransItem" kind="class">
+		<name value="Delete field" type="string" />
+		<rus value="Удалить поле" type="string" />
+		<eng value="" type="string" />
+	</items15>
+	<items16 type="TTransItem" kind="class">
+		<name value="Add depth axis" type="string" />
+		<rus value="Добавить шкалу глубины" type="string" />
+		<eng value="" type="string" />
+	</items16>
+	<items17 type="TTransItem" kind="class">
+		<name value="Options" type="string" />
+		<rus value="Настройки" type="string" />
+		<eng value="" type="string" />
+	</items17>
+	<items18 type="TTransItem" kind="class">
+		<name value="Language" type="string" />
+		<rus value="Язык" type="string" />
+		<eng value="" type="string" />
+	</items18>
+	<items19 type="TTransItem" kind="class">
+		<name value="Add default profile" type="string" />
+		<rus value="Добавить профиль по умолчанию" type="string" />
+		<eng value="" type="string" />
+	</items19>
+	<items20 type="TTransItem" kind="class">
+		<name value="About" type="string" />
+		<rus value="О программе" type="string" />
+		<eng value="" type="string" />
+	</items20>
+	<items21 type="TTransItem" kind="class">
+		<name value="Depth correlation" type="string" />
+		<rus value="Увязка по глубине" type="string" />
+		<eng value="" type="string" />
+	</items21>
+	<items22 type="TTransItem" kind="class">
+		<name value="Atlas" type="string" />
+		<rus value="Атлас" type="string" />
+		<eng value="" type="string" />
+	</items22>
+	<items23 type="TTransItem" kind="class">
+		<name value="title" type="string" />
+		<rus value="Название" type="string" />
+		<eng value="Title" type="string" />
+	</items23>
+	<items24 type="TTransItem" kind="class">
+		<name value="value" type="string" />
+		<rus value="Значение" type="string" />
+		<eng value="Value" type="string" />
+	</items24>
+	<items25 type="TTransItem" kind="class">
+		<name value="Scale" type="string" />
+		<rus value="Масштаб" type="string" />
+		<eng value="" type="string" />
+	</items25>
+	<items26 type="TTransItem" kind="class">
+		<name value="Profile" type="string" />
+		<rus value="Профиль" type="string" />
+		<eng value="" type="string" />
+	</items26>
+	<items27 type="TTransItem" kind="class">
+		<name value="name" type="string" />
+		<rus value="Имя" type="string" />
+		<eng value="Name" type="string" />
+	</items27>
+	<items28 type="TTransItem" kind="class">
+		<name value="version" type="string" />
+		<rus value="Версия" type="string" />
+		<eng value="Version" type="string" />
+	</items28>
+	<items29 type="TTransItem" kind="class">
+		<name value="area" type="string" />
+		<rus value="Площадь" type="string" />
+		<eng value="Area" type="string" />
+	</items29>
+	<items30 type="TTransItem" kind="class">
+		<name value="well" type="string" />
+		<rus value="Скважина" type="string" />
+		<eng value="Well" type="string" />
+	</items30>
+	<items31 type="TTransItem" kind="class">
+		<name value="date" type="string" />
+		<rus value="Дата" type="string" />
+		<eng value="Date" type="string" />
+	</items31>
+	<items32 type="TTransItem" kind="class">
+		<name value="time" type="string" />
+		<rus value="Время" type="string" />
+		<eng value="Time" type="string" />
+	</items32>
+	<items33 type="TTransItem" kind="class">
+		<name value="company" type="string" />
+		<rus value="Компания" type="string" />
+		<eng value="Company" type="string" />
+	</items33>
+	<items34 type="TTransItem" kind="class">
+		<name value="service" type="string" />
+		<rus value="Оператор" type="string" />
+		<eng value="Operator" type="string" />
+	</items34>
+	<items35 type="TTransItem" kind="class">
+		<name value="minDepth" type="string" />
+		<rus value="Минимальная глубина" type="string" />
+		<eng value="Minimum depth" type="string" />
+	</items35>
+	<items36 type="TTransItem" kind="class">
+		<name value="maxDepth" type="string" />
+		<rus value="Максимальная глубина" type="string" />
+		<eng value="Maximum depth" type="string" />
+	</items36>
+	<items37 type="TTransItem" kind="class">
+		<name value="stepDepth" type="string" />
+		<rus value="Шаг глубины" type="string" />
+		<eng value="Step depth" type="string" />
+	</items37>
+	<items38 type="TTransItem" kind="class">
+		<name value="beginDepth" type="string" />
+		<rus value="Начальная глубина" type="string" />
+		<eng value="Begin depth" type="string" />
+	</items38>
+	<items39 type="TTransItem" kind="class">
+		<name value="endDepth" type="string" />
+		<rus value="Конечная глубина" type="string" />
+		<eng value="End depth" type="string" />
+	</items39>
+	<items40 type="TTransItem" kind="class">
+		<name value="unit" type="string" />
+		<rus value="Ед. измерения" type="string" />
+		<eng value="Unit" type="string" />
+	</items40>
+	<items41 type="TTransItem" kind="class">
+		<name value="duNone" type="string" />
+		<rus value="Не выбрано" type="string" />
+		<eng value="None" type="string" />
+	</items41>
+	<items42 type="TTransItem" kind="class">
+		<name value="duMeter" type="string" />
+		<rus value="м" type="string" />
+		<eng value="m" type="string" />
+	</items42>
+	<items43 type="TTransItem" kind="class">
+		<name value="duFoot" type="string" />
+		<rus value="фт" type="string" />
+		<eng value="ft" type="string" />
+	</items43>
+	<items44 type="TTransItem" kind="class">
+		<name value="guNone" type="string" />
+		<rus value="Не выбрано" type="string" />
+		<eng value="None" type="string" />
+	</items44>
+	<items45 type="TTransItem" kind="class">
+		<name value="guMcRH" type="string" />
+		<rus value="мкР/ч" type="string" />
+		<eng value="mcRH" type="string" />
+	</items45>
+	<items46 type="TTransItem" kind="class">
+		<name value="guAPI" type="string" />
+		<rus value="API" type="string" />
+		<eng value="API" type="string" />
+	</items46>
+	<items47 type="TTransItem" kind="class">
+		<name value="ucGR" type="string" />
+		<rus value="Гамма излучение" type="string" />
+		<eng value="Gamma Ray" type="string" />
+	</items47>
+	<items48 type="TTransItem" kind="class">
+		<name value="ucCurrent" type="string" />
+		<rus value="Сила тока" type="string" />
+		<eng value="Current" type="string" />
+	</items48>
+	<items49 type="TTransItem" kind="class">
+		<name value="cuNone" type="string" />
+		<rus value="Не выбрано" type="string" />
+		<eng value="None" type="string" />
+	</items49>
+	<items50 type="TTransItem" kind="class">
+		<name value="cuMA" type="string" />
+		<rus value="mA" type="string" />
+		<eng value="mA" type="string" />
+	</items50>
+	<items51 type="TTransItem" kind="class">
+		<name value="ucSpeed" type="string" />
+		<rus value="Скорость" type="string" />
+		<eng value="Speed" type="string" />
+	</items51>
+	<items52 type="TTransItem" kind="class">
+		<name value="suNone" type="string" />
+		<rus value="Не выбрано" type="string" />
+		<eng value="None" type="string" />
+	</items52>
+	<items53 type="TTransItem" kind="class">
+		<name value="suInHour" type="string" />
+		<rus value="/ч" type="string" />
+		<eng value="/h" type="string" />
+	</items53>
+	<items54 type="TTransItem" kind="class">
+		<name value="suInMinute" type="string" />
+		<rus value="/мин" type="string" />
+		<eng value="/m" type="string" />
+	</items54>
+	<items55 type="TTransItem" kind="class">
+		<name value="ucTension" type="string" />
+		<rus value="Натяжение" type="string" />
+		<eng value="Tension" type="string" />
+	</items55>
+	<items56 type="TTransItem" kind="class">
+		<name value="tnuKN" type="string" />
+		<rus value="kN" type="string" />
+		<eng value="kN" type="string" />
+	</items56>
+	<items57 type="TTransItem" kind="class">
+		<name value="tnuLbf" type="string" />
+		<rus value="lbf" type="string" />
+		<eng value="lbf" type="string" />
+	</items57>
+	<items58 type="TTransItem" kind="class">
+		<name value="tnuKgf" type="string" />
+		<rus value="kgf" type="string" />
+		<eng value="kgf" type="string" />
+	</items58>
+	<items59 type="TTransItem" kind="class">
+		<name value="tnuNone" type="string" />
+		<rus value="Не выбрано" type="string" />
+		<eng value="None" type="string" />
+	</items59>
+	<items60 type="TTransItem" kind="class">
+		<name value="ucTemp" type="string" />
+		<rus value="Температура" type="string" />
+		<eng value="Temperature" type="string" />
+	</items60>
+	<items61 type="TTransItem" kind="class">
+		<name value="tuNone" type="string" />
+		<rus value="Не выбрано" type="string" />
+		<eng value="None" type="string" />
+	</items61>
+	<items62 type="TTransItem" kind="class">
+		<name value="tuC" type="string" />
+		<rus value="C" type="string" />
+		<eng value="C" type="string" />
+	</items62>
+	<items63 type="TTransItem" kind="class">
+		<name value="tuF" type="string" />
+		<rus value="F" type="string" />
+		<eng value="F" type="string" />
+	</items63>
+	<items64 type="TTransItem" kind="class">
+		<name value="ucPress" type="string" />
+		<rus value="Давление" type="string" />
+		<eng value="Pressure" type="string" />
+	</items64>
+	<items65 type="TTransItem" kind="class">
+		<name value="puNone" type="string" />
+		<rus value="Не выбрано" type="string" />
+		<eng value="None" type="string" />
+	</items65>
+	<items66 type="TTransItem" kind="class">
+		<name value="puAtm" type="string" />
+		<rus value="атм" type="string" />
+		<eng value="atm" type="string" />
+	</items66>
+	<items67 type="TTransItem" kind="class">
+		<name value="puMPa" type="string" />
+		<rus value="МПа" type="string" />
+		<eng value="MPa" type="string" />
+	</items67>
+	<items68 type="TTransItem" kind="class">
+		<name value="puPsi" type="string" />
+		<rus value="psi" type="string" />
+		<eng value="psi" type="string" />
+	</items68>
+	<items69 type="TTransItem" kind="class">
+		<name value="wuNone" type="string" />
+		<rus value="Не выбрано" type="string" />
+		<eng value="None" type="string" />
+	</items69>
+	<items70 type="TTransItem" kind="class">
+		<name value="wuMM" type="string" />
+		<rus value="мм." type="string" />
+		<eng value="mm" type="string" />
+	</items70>
+	<items71 type="TTransItem" kind="class">
+		<name value="wuMM_s" type="string" />
+		<rus value="мм." type="string" />
+		<eng value="mm." type="string" />
+	</items71>
+	<items72 type="TTransItem" kind="class">
+		<name value="duMeter_s" type="string" />
+		<rus value="м." type="string" />
+		<eng value="m." type="string" />
+	</items72>
+	<items73 type="TTransItem" kind="class">
+		<name value="duFoot_s" type="string" />
+		<rus value="фт." type="string" />
+		<eng value="ft." type="string" />
+	</items73>
+	<items74 type="TTransItem" kind="class">
+		<name value="Add" type="string" />
+		<rus value="Добавить" type="string" />
+		<eng value="" type="string" />
+	</items74>
+	<items75 type="TTransItem" kind="class">
+		<name value="Del" type="string" />
+		<rus value="Удалить" type="string" />
+		<eng value="Delete" type="string" />
+	</items75>
+	<items76 type="TTransItem" kind="class">
+		<name value="Diameter" type="string" />
+		<rus value="Диаметр" type="string" />
+		<eng value="" type="string" />
+	</items76>
+	<items77 type="TTransItem" kind="class">
+		<name value="Thickness" type="string" />
+		<rus value="Толщина" type="string" />
+		<eng value="" type="string" />
+	</items77>
+	<items78 type="TTransItem" kind="class">
+		<name value="Depth" type="string" />
+		<rus value="Глубина" type="string" />
+		<eng value="" type="string" />
+	</items78>
+	<items79 type="TTransItem" kind="class">
+		<name value="Value" type="string" />
+		<rus value="Значение" type="string" />
+		<eng value="" type="string" />
+	</items79>
+	<items80 type="TTransItem" kind="class">
+		<name value="comment" type="string" />
+		<rus value="Коментарий" type="string" />
+		<eng value="Comment" type="string" />
+	</items80>
+	<items81 type="TTransItem" kind="class">
+		<name value="editKeyDelta" type="string" />
+		<rus value="Точка записи" type="string" />
+		<eng value="Depth offset" type="string" />
+	</items81>
+	<items82 type="TTransItem" kind="class">
+		<name value="wuInch" type="string" />
+		<rus value="дюйм" type="string" />
+		<eng value="inch" type="string" />
+	</items82>
+	<items83 type="TTransItem" kind="class">
+		<name value="ConstructionID" type="string" />
+		<rus value="Конструкция" type="string" />
+		<eng value="Construction" type="string" />
+	</items83>
+	<items84 type="TTransItem" kind="class">
+		<name value="ColumnID_1" type="string" />
+		<rus value="1-я колонна" type="string" />
+		<eng value="First column" type="string" />
+	</items84>
+	<items85 type="TTransItem" kind="class">
+		<name value="ColumnID_2" type="string" />
+		<rus value="2-я колонна" type="string" />
+		<eng value="Second column" type="string" />
+	</items85>
+	<items86 type="TTransItem" kind="class">
+		<name value="ColumnID_3" type="string" />
+		<rus value="3-я колонна" type="string" />
+		<eng value="Third column" type="string" />
+	</items86>
+	<items87 type="TTransItem" kind="class">
+		<name value="Coupling" type="string" />
+		<rus value="Муфты" type="string" />
+		<eng value="Couplings" type="string" />
+	</items87>
+	<items88 type="TTransItem" kind="class">
+		<name value="Length" type="string" />
+		<rus value="Длина" type="string" />
+		<eng value="Length" type="string" />
+	</items88>
+	<items89 type="TTransItem" kind="class">
+		<name value="Data" type="string" />
+		<rus value="Данные" type="string" />
+		<eng value="Data" type="string" />
+	</items89>
+	<items90 type="TTransItem" kind="class">
+		<name value="ColumnID_4" type="string" />
+		<rus value="4-я колонна" type="string" />
+		<eng value="Fourth column" type="string" />
+	</items90>
+	<items91 type="TTransItem" kind="class">
+		<name value="ColumnID_5" type="string" />
+		<rus value="5-я колонна" type="string" />
+		<eng value="Fifth column" type="string" />
+	</items91>
+	<items92 type="TTransItem" kind="class">
+		<name value="countAllPoint" type="string" />
+		<rus value="Всего знаков" type="string" />
+		<eng value="Number of sings" type="string" />
+	</items92>
+	<items93 type="TTransItem" kind="class">
+		<name value="countDotPoint" type="string" />
+		<rus value="Знаков после запятой" type="string" />
+		<eng value="Number of sings after comma" type="string" />
+	</items93>
+	<items94 type="TTransItem" kind="class">
+		<name value="History" type="string" />
+		<rus value="История" type="string" />
+		<eng value="History" type="string" />
+	</items94>
+	<items95 type="TTransItem" kind="class">
+		<name value="Back" type="string" />
+		<rus value="Отменить" type="string" />
+		<eng value="" type="string" />
+	</items95>
+	<items96 type="TTransItem" kind="class">
+		<name value="Next" type="string" />
+		<rus value="Повторить" type="string" />
+		<eng value="" type="string" />
+	</items96>
+	<items97 type="TTransItem" kind="class">
+		<name value="Calculate couplings" type="string" />
+		<rus value="Рассчитать муфты" type="string" />
+		<eng value="" type="string" />
+	</items97>
+	<items98 type="TTransItem" kind="class">
+		<name value="Calculate color map" type="string" />
+		<rus value="Рассчитать дефектограмму" type="string" />
+		<eng value="" type="string" />
+	</items98>
+	<items99 type="TTransItem" kind="class">
+		<name value="Move depth" type="string" />
+		<rus value="Сместить глубину" type="string" />
+		<eng value="" type="string" />
+	</items99>
+	<items100 type="TTransItem" kind="class">
+		<name value="Scale depth" type="string" />
+		<rus value="Сжать глубину" type="string" />
+		<eng value="" type="string" />
+	</items100>
+	<items101 type="TTransItem" kind="class">
+		<name value="Move and scale depth" type="string" />
+		<rus value="Сместить и сжать глубину" type="string" />
+		<eng value="" type="string" />
+	</items101>
+	<items102 type="TTransItem" kind="class">
+		<name value="Fixed points" type="string" />
+		<rus value="Фиксированные точки" type="string" />
+		<eng value="Fixed points" type="string" />
+	</items102>
+	<items103 type="TTransItem" kind="class">
+		<name value="Operations" type="string" />
+		<rus value="Операции" type="string" />
+		<eng value="" type="string" />
+	</items103>
+	<items104 type="TTransItem" kind="class">
+		<name value="Modify data" type="string" />
+		<rus value="Редактируемая кривая" type="string" />
+		<eng value="" type="string" />
+	</items104>
+	<items105 type="TTransItem" kind="class">
+		<name value="Base depth" type="string" />
+		<rus value="Базовая глубина" type="string" />
+		<eng value="" type="string" />
+	</items105>
+	<items106 type="TTransItem" kind="class">
+		<name value="Change depth" type="string" />
+		<rus value="Изменяемая глубина" type="string" />
+		<eng value="" type="string" />
+	</items106>
+	<items107 type="TTransItem" kind="class">
+		<name value="Auto-calculation" type="string" />
+		<rus value="Авторасчет" type="string" />
+		<eng value="" type="string" />
+	</items107>
+	<items108 type="TTransItem" kind="class">
+		<name value="Delta" type="string" />
+		<rus value="Дельта" type="string" />
+		<eng value="" type="string" />
+	</items108>
+	<items109 type="TTransItem" kind="class">
+		<name value="Base depth one" type="string" />
+		<rus value="Первая базовая глубина" type="string" />
+		<eng value="" type="string" />
+	</items109>
+	<items110 type="TTransItem" kind="class">
+		<name value="Base depth two" type="string" />
+		<rus value="Вторая базовая глубина" type="string" />
+		<eng value="" type="string" />
+	</items110>
+	<items111 type="TTransItem" kind="class">
+		<name value="Change depth one" type="string" />
+		<rus value="Первая изменяемая глубина" type="string" />
+		<eng value="" type="string" />
+	</items111>
+	<items112 type="TTransItem" kind="class">
+		<name value="Change depth two" type="string" />
+		<rus value="Вторая изменяемая глубина" type="string" />
+		<eng value="" type="string" />
+	</items112>
+	<items113 type="TTransItem" kind="class">
+		<name value="Not selected" type="string" />
+		<rus value="Не выбрана" type="string" />
+		<eng value="" type="string" />
+	</items113>
+	<items114 type="TTransItem" kind="class">
+		<name value="Cancel" type="string" />
+		<rus value="Отмена" type="string" />
+		<eng value="" type="string" />
+	</items114>
+	<items115 type="TTransItem" kind="class">
+		<name value="color" type="string" />
+		<rus value="Цвет" type="string" />
+		<eng value="Color" type="string" />
+	</items115>
+	<items116 type="TTransItem" kind="class">
+		<name value="min" type="string" />
+		<rus value="Минимум" type="string" />
+		<eng value="Minimum" type="string" />
+	</items116>
+	<items117 type="TTransItem" kind="class">
+		<name value="step" type="string" />
+		<rus value="Шаг" type="string" />
+		<eng value="Step" type="string" />
+	</items117>
+	<items118 type="TTransItem" kind="class">
+		<name value="countSmooth" type="string" />
+		<rus value="Точек сглаживания" type="string" />
+		<eng value="Count smooth" type="string" />
+	</items118>
+	<items119 type="TTransItem" kind="class">
+		<name value="countFilter" type="string" />
+		<rus value="Точек фильтрации" type="string" />
+		<eng value="Count filter" type="string" />
+	</items119>
+	<items120 type="TTransItem" kind="class">
+		<name value="indexArrayView" type="string" />
+		<rus value="Номер кривой" type="string" />
+		<eng value="Index curve" type="string" />
+	</items120>
+	<items121 type="TTransItem" kind="class">
+		<name value="width" type="string" />
+		<rus value="Ширина" type="string" />
+		<eng value="Width" type="string" />
+	</items121>
+	<items122 type="TTransItem" kind="class">
+		<name value="coupling" type="string" />
+		<rus value="Муфты" type="string" />
+		<eng value="Copling" type="string" />
+	</items122>
+	<items123 type="TTransItem" kind="class">
+		<name value="countArrays" type="string" />
+		<rus value="Количество массивов" type="string" />
+		<eng value="Count arrays" type="string" />
+	</items123>
+	<items124 type="TTransItem" kind="class">
+		<name value="Decays" type="string" />
+		<rus value="Спады" type="string" />
+		<eng value="" type="string" />
+	</items124>
+	<items125 type="TTransItem" kind="class">
+		<name value="Merge data" type="string" />
+		<rus value="Объединить данные" type="string" />
+		<eng value="" type="string" />
+	</items125>
+	<items126 type="TTransItem" kind="class">
+		<name value="wuInch_s" type="string" />
+		<rus value="дюйм" type="string" />
+		<eng value="inch" type="string" />
+	</items126>
+	<items127 type="TTransItem" kind="class">
+		<name value="View" type="string" />
+		<rus value="Просмотр" type="string" />
+		<eng value="" type="string" />
+	</items127>
+	<items128 type="TTransItem" kind="class">
+		<name value="Log" type="string" />
+		<rus value="Лог. масштаб" type="string" />
+		<eng value="" type="string" />
+	</items128>
+	<items129 type="TTransItem" kind="class">
+		<name value="Add in set" type="string" />
+		<rus value="Добавить в набор" type="string" />
+		<eng value="" type="string" />
+	</items129>
+	<items130 type="TTransItem" kind="class">
+		<name value="Scatters" type="string" />
+		<rus value="Точки" type="string" />
+		<eng value="" type="string" />
+	</items130>
+	<items131 type="TTransItem" kind="class">
+		<name value="Amplitude" type="string" />
+		<rus value="АЧХ" type="string" />
+		<eng value="" type="string" />
+	</items131>
+	<items132 type="TTransItem" kind="class">
+		<name value="Save default layout" type="string" />
+		<rus value="Сохранить по умолчанию" type="string" />
+		<eng value="" type="string" />
+	</items132>
+	<items133 type="TTransItem" kind="class">
+		<name value="baseData" type="string" />
+		<rus value="Данные для расчета" type="string" />
+		<eng value="Base data" type="string" />
+	</items133>
+	<items134 type="TTransItem" kind="class">
+		<name value="threshold" type="string" />
+		<rus value="Порог" type="string" />
+		<eng value="Threshold" type="string" />
+	</items134>
+	<items135 type="TTransItem" kind="class">
+		<name value="sizeModel" type="string" />
+		<rus value="Размер модели" type="string" />
+		<eng value="Model size" type="string" />
+	</items135>
+	<items136 type="TTransItem" kind="class">
+		<name value="showModel" type="string" />
+		<rus value="Показывать модель" type="string" />
+		<eng value="Model show" type="string" />
+	</items136>
+	<items137 type="TTransItem" kind="class">
+		<name value="autoCalc" type="string" />
+		<rus value="Авторассчет" type="string" />
+		<eng value="Autocalculation" type="string" />
+	</items137>
+	<items138 type="TTransItem" kind="class">
+		<name value="RectField" type="string" />
+		<rus value="Поле" type="string" />
+		<eng value="Field" type="string" />
+	</items138>
+	<items139 type="TTransItem" kind="class">
+		<name value="data" type="string" />
+		<rus value="Данные" type="string" />
+		<eng value="Data" type="string" />
+	</items139>
+	<items140 type="TTransItem" kind="class">
+		<name value="scatter" type="string" />
+		<rus value="Точки" type="string" />
+		<eng value="Scatter" type="string" />
+	</items140>
+	<items141 type="TTransItem" kind="class">
+		<name value="Begin" type="string" />
+		<rus value="Начало" type="string" />
+		<eng value="" type="string" />
+	</items141>
+	<items142 type="TTransItem" kind="class">
+		<name value="End" type="string" />
+		<rus value="Конец" type="string" />
+		<eng value="" type="string" />
+	</items142>
+	<items143 type="TTransItem" kind="class">
+		<name value="isMaskColumn" type="string" />
+		<rus value="Маскировать муфты" type="string" />
+		<eng value="Mask coupling" type="string" />
+	</items143>
+	<items144 type="TTransItem" kind="class">
+		<name value="text" type="string" />
+		<rus value="Текст" type="string" />
+		<eng value="Text" type="string" />
+	</items144>
+	<items145 type="TTransItem" kind="class">
+		<name value="posKey" type="string" />
+		<rus value="Позиция" type="string" />
+		<eng value="Position" type="string" />
+	</items145>
+	<items146 type="TTransItem" kind="class">
+		<name value="posVal" type="string" />
+		<rus value="Значение" type="string" />
+		<eng value="Value" type="string" />
+	</items146>
+	<items147 type="TTransItem" kind="class">
+		<name value="isAbsolute" type="string" />
+		<rus value="Глобальное положение" type="string" />
+		<eng value="Absolute position" type="string" />
+	</items147>
+	<items148 type="TTransItem" kind="class">
+		<name value="colorFont" type="string" />
+		<rus value="Цвет текста" type="string" />
+		<eng value="Font color" type="string" />
+	</items148>
+	<items149 type="TTransItem" kind="class">
+		<name value="colorBack" type="string" />
+		<rus value="Цвет фона" type="string" />
+		<eng value="Background color" type="string" />
+	</items149>
+	<items150 type="TTransItem" kind="class">
+		<name value="isTransparent" type="string" />
+		<rus value="Прозрачный фон" type="string" />
+		<eng value="Transparent background" type="string" />
+	</items150>
+	<items151 type="TTransItem" kind="class">
+		<name value="Input text" type="string" />
+		<rus value="Введите текст" type="string" />
+		<eng value="" type="string" />
+	</items151>
+	<items152 type="TTransItem" kind="class">
+		<name value="editCoefA" type="string" />
+		<rus value="Коэффициент А" type="string" />
+		<eng value="Coefficient A" type="string" />
+	</items152>
+	<items153 type="TTransItem" kind="class">
+		<name value="editCoefB" type="string" />
+		<rus value="Коэффициент В" type="string" />
+		<eng value="Coefficient B" type="string" />
+	</items153>
+	<items154 type="TTransItem" kind="class">
+		<name value="coefA" type="string" />
+		<rus value="Коэффициент А" type="string" />
+		<eng value="Coefficient A" type="string" />
+	</items154>
+	<items155 type="TTransItem" kind="class">
+		<name value="coefB" type="string" />
+		<rus value="Коэффициент В" type="string" />
+		<eng value="Coefficient B" type="string" />
+	</items155>
+	<items156 type="TTransItem" kind="class">
+		<name value="countArray" type="string" />
+		<rus value="Количество массивов" type="string" />
+		<eng value="Count array" type="string" />
+	</items156>
+	<items157 type="TTransItem" kind="class">
+		<name value="All curve" type="string" />
+		<rus value="Все кривые" type="string" />
+		<eng value="" type="string" />
+	</items157>
+	<items158 type="TTransItem" kind="class">
+		<name value="Add text" type="string" />
+		<rus value="Добавить текст" type="string" />
+		<eng value="" type="string" />
+	</items158>
+	<items159 type="TTransItem" kind="class">
+		<name value="Delete text" type="string" />
+		<rus value="Удалить текст" type="string" />
+		<eng value="" type="string" />
+	</items159>
+	<items160 type="TTransItem" kind="class">
+		<name value="preset" type="string" />
+		<rus value="Набор" type="string" />
+		<eng value="Preset" type="string" />
+	</items160>
+	<items161 type="TTransItem" kind="class">
+		<name value="gpGrayscale" type="string" />
+		<rus value="Grayscale" type="string" />
+		<eng value="Grayscale" type="string" />
+	</items161>
+	<items162 type="TTransItem" kind="class">
+		<name value="gpHot" type="string" />
+		<rus value="Hot" type="string" />
+		<eng value="Hot" type="string" />
+	</items162>
+	<items163 type="TTransItem" kind="class">
+		<name value="gpCold" type="string" />
+		<rus value="Cold" type="string" />
+		<eng value="Cold" type="string" />
+	</items163>
+	<items164 type="TTransItem" kind="class">
+		<name value="gpNight" type="string" />
+		<rus value="Night" type="string" />
+		<eng value="Night" type="string" />
+	</items164>
+	<items165 type="TTransItem" kind="class">
+		<name value="gpCandy" type="string" />
+		<rus value="Candy" type="string" />
+		<eng value="Candy" type="string" />
+	</items165>
+	<items166 type="TTransItem" kind="class">
+		<name value="gpGeography" type="string" />
+		<rus value="Geography" type="string" />
+		<eng value="Geography" type="string" />
+	</items166>
+	<items167 type="TTransItem" kind="class">
+		<name value="gpIon" type="string" />
+		<rus value="Ion" type="string" />
+		<eng value="Ion" type="string" />
+	</items167>
+	<items168 type="TTransItem" kind="class">
+		<name value="gpThermal" type="string" />
+		<rus value="Thermal" type="string" />
+		<eng value="Thermal" type="string" />
+	</items168>
+	<items169 type="TTransItem" kind="class">
+		<name value="gpPolar" type="string" />
+		<rus value="Polar" type="string" />
+		<eng value="Polar" type="string" />
+	</items169>
+	<items170 type="TTransItem" kind="class">
+		<name value="gpSpectrum" type="string" />
+		<rus value="Spectrum" type="string" />
+		<eng value="Spectrum" type="string" />
+	</items170>
+	<items171 type="TTransItem" kind="class">
+		<name value="gpJet" type="string" />
+		<rus value="Jet" type="string" />
+		<eng value="Jet" type="string" />
+	</items171>
+	<items172 type="TTransItem" kind="class">
+		<name value="gpHues" type="string" />
+		<rus value="Hues" type="string" />
+		<eng value="Hues" type="string" />
+	</items172>
+	<items173 type="TTransItem" kind="class">
+		<name value="typeColorMap" type="string" />
+		<rus value="Тип дефекторграммы" type="string" />
+		<eng value="Defectogram type" type="string" />
+	</items173>
+	<items174 type="TTransItem" kind="class">
+		<name value="WithAll" type="string" />
+		<rus value="По всем данным" type="string" />
+		<eng value="With all data" type="string" />
+	</items174>
+	<items175 type="TTransItem" kind="class">
+		<name value="WithColumn" type="string" />
+		<rus value="По колонне" type="string" />
+		<eng value="With column data" type="string" />
+	</items175>
+	<items176 type="TTransItem" kind="class">
+		<name value="WithCoupling" type="string" />
+		<rus value="По муфтам" type="string" />
+		<eng value="With couplings data" type="string" />
+	</items176>
+	<items177 type="TTransItem" kind="class">
+		<name value="isShowGrid" type="string" />
+		<rus value="Показывать сетку" type="string" />
+		<eng value="Show grid" type="string" />
+	</items177>
+	<items178 type="TTransItem" kind="class">
+		<name value="Remove eccentricity" type="string" />
+		<rus value="Убрать эксцентриситет" type="string" />
+		<eng value="" type="string" />
+	</items178>
+	<items179 type="TTransItem" kind="class">
+		<name value="loadedPath" type="string" />
+		<rus value="Путь к файлу" type="string" />
+		<eng value="Path to file" type="string" />
+	</items179>
+	<items180 type="TTransItem" kind="class">
+		<name value="Customs" type="string" />
+		<rus value="Настройки" type="string" />
+		<eng value="" type="string" />
+	</items180>
+	<items181 type="TTransItem" kind="class">
+		<name value="Paths" type="string" />
+		<rus value="Директории" type="string" />
+		<eng value="" type="string" />
+	</items181>
+	<items182 type="TTransItem" kind="class">
+		<name value="File versions" type="string" />
+		<rus value="Версии файлов" type="string" />
+		<eng value="" type="string" />
+	</items182>
+	<items183 type="TTransItem" kind="class">
+		<name value="customDir" type="string" />
+		<rus value="Настройки приложения" type="string" />
+		<eng value="Dir customs" type="string" />
+	</items183>
+	<items184 type="TTransItem" kind="class">
+		<name value="currentProfile" type="string" />
+		<rus value="Профиль по умолчанию" type="string" />
+		<eng value="Index default profile" type="string" />
+	</items184>
+	<items185 type="TTransItem" kind="class">
+		<name value="PlotWidget" type="string" />
+		<rus value="Диаграмма" type="string" />
+		<eng value="Chart" type="string" />
+	</items185>
+	<items186 type="TTransItem" kind="class">
+		<name value="titleGraph" type="string" />
+		<rus value="Надпись" type="string" />
+		<eng value="Title" type="string" />
+	</items186>
+	<items187 type="TTransItem" kind="class">
+		<name value="colorGraph" type="string" />
+		<rus value="Цвет" type="string" />
+		<eng value="Color" type="string" />
+	</items187>
+	<items188 type="TTransItem" kind="class">
+		<name value="indArray" type="string" />
+		<rus value="Номер кривой" type="string" />
+		<eng value="Index curve" type="string" />
+	</items188>
+	<items189 type="TTransItem" kind="class">
+		<name value="indField" type="string" />
+		<rus value="Номер поля" type="string" />
+		<eng value="Index field" type="string" />
+	</items189>
+	<items190 type="TTransItem" kind="class">
+		<name value="Unit customs" type="string" />
+		<rus value="Еденицы измерения" type="string" />
+		<eng value="" type="string" />
+	</items190>
+	<items191 type="TTransItem" kind="class">
+		<name value="indProfile" type="string" />
+		<rus value="Профиль ед. изм" type="string" />
+		<eng value="Unit profile" type="string" />
+	</items191>
+	<items192 type="TTransItem" kind="class">
+		<name value="depth" type="string" />
+		<rus value="Глубина" type="string" />
+		<eng value="Depth" type="string" />
+	</items192>
+	<items193 type="TTransItem" kind="class">
+		<name value="speed" type="string" />
+		<rus value="Скорость" type="string" />
+		<eng value="Speed" type="string" />
+	</items193>
+	<items194 type="TTransItem" kind="class">
+		<name value="tension" type="string" />
+		<rus value="Натяжение" type="string" />
+		<eng value="Tension" type="string" />
+	</items194>
+	<items195 type="TTransItem" kind="class">
+		<name value="gr" type="string" />
+		<rus value="ГК" type="string" />
+		<eng value="GR" type="string" />
+	</items195>
+	<items196 type="TTransItem" kind="class">
+		<name value="temp" type="string" />
+		<rus value="Температура" type="string" />
+		<eng value="Temperature" type="string" />
+	</items196>
+	<items197 type="TTransItem" kind="class">
+		<name value="current" type="string" />
+		<rus value="Ток" type="string" />
+		<eng value="Current" type="string" />
+	</items197>
+	<items198 type="TTransItem" kind="class">
+		<name value="press" type="string" />
+		<rus value="Давление" type="string" />
+		<eng value="Pressure" type="string" />
+	</items198>
+	<items199 type="TTransItem" kind="class">
+		<name value="diameter" type="string" />
+		<rus value="Диаметр" type="string" />
+		<eng value="Diameter" type="string" />
+	</items199>
+	<items200 type="TTransItem" kind="class">
+		<name value="thickness" type="string" />
+		<rus value="Толщина" type="string" />
+		<eng value="Thickness" type="string" />
+	</items200>
+	<items201 type="TTransItem" kind="class">
+		<name value="defaultStep" type="string" />
+		<rus value="Шаг глубины" type="string" />
+		<eng value="Default depth step" type="string" />
+	</items201>
+	<items202 type="TTransItem" kind="class">
+		<name value="typeGraph" type="string" />
+		<rus value="Тип графика" type="string" />
+		<eng value="Type graph" type="string" />
+	</items202>
+	<items203 type="TTransItem" kind="class">
+		<name value="cpAnsi" type="string" />
+		<rus value="ANSI" type="string" />
+		<eng value="ANSI" type="string" />
+	</items203>
+	<items204 type="TTransItem" kind="class">
+		<name value="cpWin1251" type="string" />
+		<rus value="Windows 1251" type="string" />
+		<eng value="Windows 1251" type="string" />
+	</items204>
+	<items205 type="TTransItem" kind="class">
+		<name value="cpOem866" type="string" />
+		<rus value="OEM 866" type="string" />
+		<eng value="OEM 866" type="string" />
+	</items205>
+	<items206 type="TTransItem" kind="class">
+		<name value="Code page" type="string" />
+		<rus value="Кодировка" type="string" />
+		<eng value="" type="string" />
+	</items206>
+	<items207 type="TTransItem" kind="class">
+		<name value="MIDExtensionCustoms" type="string" />
+		<rus value="Настройки МИД" type="string" />
+		<eng value="MID plugin" type="string" />
+	</items207>
+	<items208 type="TTransItem" kind="class">
+		<name value="eccentDelta" type="string" />
+		<rus value="Смещение эксцентриситета" type="string" />
+		<eng value="Delta eccentricity" type="string" />
+	</items208>
+	<items209 type="TTransItem" kind="class">
+		<name value="power" type="string" />
+		<rus value="Степень расчета" type="string" />
+		<eng value="Power" type="string" />
+	</items209>
+	<items210 type="TTransItem" kind="class">
+		<name value="lastSaveDir" type="string" />
+		<rus value="Последний каталог сохранения" type="string" />
+		<eng value="Last saved dir" type="string" />
+	</items210>
+	<items211 type="TTransItem" kind="class">
+		<name value="lastOpenDir" type="string" />
+		<rus value="Последний каталог открытия" type="string" />
+		<eng value="Last opened dir" type="string" />
+	</items211>
+	<items212 type="TTransItem" kind="class">
+		<name value="Clear recent files" type="string" />
+		<rus value="Очистить предыдущие файлы" type="string" />
+		<eng value="" type="string" />
+	</items212>
+	<items213 type="TTransItem" kind="class">
+		<name value="Autosave" type="string" />
+		<rus value="Автосохранение" type="string" />
+		<eng value="" type="string" />
+	</items213>
+	<items214 type="TTransItem" kind="class">
+		<name value="isAutoSave" type="string" />
+		<rus value="Включено" type="string" />
+		<eng value="On" type="string" />
+	</items214>
+	<items215 type="TTransItem" kind="class">
+		<name value="intervalSave" type="string" />
+		<rus value="Интервал сохранения (мин.)" type="string" />
+		<eng value="Save interval" type="string" />
+	</items215>
+	<items216 type="TTransItem" kind="class">
+		<name value="Autosave file is exists! Reload last autosave project?" type="string" />
+		<rus value="Загрузить последний файл автосохранения?" type="string" />
+		<eng value="" type="string" />
+	</items216>
+	<items217 type="TTransItem" kind="class">
+		<name value="The project has been changed! Save changes?" type="string" />
+		<rus value="Проект был изменен! Сохранить изменения?" type="string" />
+		<eng value="" type="string" />
+	</items217>
+	<items218 type="TTransItem" kind="class">
+		<name value="Yes" type="string" />
+		<rus value="Да" type="string" />
+		<eng value="" type="string" />
+	</items218>
+	<items219 type="TTransItem" kind="class">
+		<name value="No" type="string" />
+		<rus value="Нет" type="string" />
+		<eng value="" type="string" />
+	</items219>
+	<items220 type="TTransItem" kind="class">
+		<name value="Cancel" type="string" />
+		<rus value="Отмена" type="string" />
+		<eng value="" type="string" />
+	</items220>
+	<items221 type="TTransItem" kind="class">
+		<name value="indexField" type="string" />
+		<rus value="Номер поля" type="string" />
+		<eng value="Index field" type="string" />
+	</items221>
+	<items222 type="TTransItem" kind="class">
+		<name value="Add coupling" type="string" />
+		<rus value="Добавить муфты" type="string" />
+		<eng value="" type="string" />
+	</items222>
+	<items223 type="TTransItem" kind="class">
+		<name value="Delete coupling" type="string" />
+		<rus value="Удалить муфты" type="string" />
+		<eng value="" type="string" />
+	</items223>
+	<items224 type="TTransItem" kind="class">
+		<name value="widthLine" type="string" />
+		<rus value="Толщина линии" type="string" />
+		<eng value="Line width" type="string" />
+	</items224>
+	<items225 type="TTransItem" kind="class">
+		<name value="styleLine" type="string" />
+		<rus value="Стиль линии" type="string" />
+		<eng value="Line style" type="string" />
+	</items225>
+	<items226 type="TTransItem" kind="class">
+		<name value="psNone" type="string" />
+		<rus value="Отсутствует" type="string" />
+		<eng value="None" type="string" />
+	</items226>
+	<items227 type="TTransItem" kind="class">
+		<name value="psSolid" type="string" />
+		<rus value="Сплошная" type="string" />
+		<eng value="Solid" type="string" />
+	</items227>
+	<items228 type="TTransItem" kind="class">
+		<name value="psDot" type="string" />
+		<rus value="Точка" type="string" />
+		<eng value="Dot" type="string" />
+	</items228>
+	<items229 type="TTransItem" kind="class">
+		<name value="psDash" type="string" />
+		<rus value="Тире" type="string" />
+		<eng value="Dash" type="string" />
+	</items229>
+	<items230 type="TTransItem" kind="class">
+		<name value="psDashDot" type="string" />
+		<rus value="Тире точка" type="string" />
+		<eng value="Dash dot" type="string" />
+	</items230>
+	<items231 type="TTransItem" kind="class">
+		<name value="psDashDotDot" type="string" />
+		<rus value="Тире точка точка" type="string" />
+		<eng value="Dash dot dot" type="string" />
+	</items231>
+	<items232 type="TTransItem" kind="class">
+		<name value="grid" type="string" />
+		<rus value="Сетка" type="string" />
+		<eng value="Grid" type="string" />
+	</items232>
+	<items233 type="TTransItem" kind="class">
+		<name value="isShow" type="string" />
+		<rus value="Отображать" type="string" />
+		<eng value="Show" type="string" />
+	</items233>
+	<items234 type="TTransItem" kind="class">
+		<name value="transpTicks" type="string" />
+		<rus value="Прозрачность" type="string" />
+		<eng value="Transparent" type="string" />
+	</items234>
+	<items235 type="TTransItem" kind="class">
+		<name value="typeTickLine" type="string" />
+		<rus value="Тип меток" type="string" />
+		<eng value="Type ticks" type="string" />
+	</items235>
+	<items236 type="TTransItem" kind="class">
+		<name value="typeSubTickLine" type="string" />
+		<rus value="Тип доп. меток" type="string" />
+		<eng value="Type sub ticks" type="string" />
+	</items236>
+	<items237 type="TTransItem" kind="class">
+		<name value="colorTicks" type="string" />
+		<rus value="Цвет" type="string" />
+		<eng value="Color" type="string" />
+	</items237>
+	<items238 type="TTransItem" kind="class">
+		<name value="isSubTicks" type="string" />
+		<rus value="Отображать доп. метки" type="string" />
+		<eng value="Sub ticks" type="string" />
+	</items238>
+	<items239 type="TTransItem" kind="class">
+		<name value="true" type="string" />
+		<rus value="Да" type="string" />
+		<eng value="Yes" type="string" />
+	</items239>
+	<items240 type="TTransItem" kind="class">
+		<name value="isTopHeaders" type="string" />
+		<rus value="Шкалы кривых сверху" type="string" />
+		<eng value="Curve axes is top" type="string" />
+	</items240>
+	<items241 type="TTransItem" kind="class">
+		<name value="GridCustoms" type="string" />
+		<rus value="Сетка" type="string" />
+		<eng value="Grid" type="string" />
+	</items241>
+	<items242 type="TTransItem" kind="class">
+		<name value="fill" type="string" />
+		<rus value="Заливка" type="string" />
+		<eng value="Flood fill" type="string" />
+	</items242>
+	<items243 type="TTransItem" kind="class">
+		<name value="isUsed" type="string" />
+		<rus value="Используется" type="string" />
+		<eng value="Using" type="string" />
+	</items243>
+	<items244 type="TTransItem" kind="class">
+		<name value="axisValue" type="string" />
+		<rus value="Вертикальное значение" type="string" />
+		<eng value="Axis value" type="string" />
+	</items244>
+	<items245 type="TTransItem" kind="class">
+		<name value="curveName" type="string" />
+		<rus value="Вторая кривая" type="string" />
+		<eng value="Second curve" type="string" />
+	</items245>
+	<items246 type="TTransItem" kind="class">
+		<name value="colorPlus" type="string" />
+		<rus value="Цвет заливки >" type="string" />
+		<eng value="Color fill >" type="string" />
+	</items246>
+	<items247 type="TTransItem" kind="class">
+		<name value="colorMinus" type="string" />
+		<rus value="Цвет заливки &lt;" type="string" />
+		<eng value="Color fill &lt;" type="string" />
+	</items247>
+	<items248 type="TTransItem" kind="class">
+		<name value="transpValue" type="string" />
+		<rus value="Прозрачность" type="string" />
+		<eng value="Transparency" type="string" />
+	</items248>
+	<items249 type="TTransItem" kind="class">
+		<name value="isDataStorable" type="string" />
+		<rus value="Сохранять в файл" type="string" />
+		<eng value="Save to file" type="string" />
+	</items249>
+	<items250 type="TTransItem" kind="class">
+		<name value="AxisField" type="string" />
+		<rus value="Шкала глубины" type="string" />
+		<eng value="Depth axis" type="string" />
+	</items250>
+	<items251 type="TTransItem" kind="class">
+		<name value="fixedTicks" type="string" />
+		<rus value="Фиксированные метки" type="string" />
+		<eng value="Fixed ticks" type="string" />
+	</items251>
+	<items252 type="TTransItem" kind="class">
+		<name value="roundTicks" type="string" />
+		<rus value="Округлять метки" type="string" />
+		<eng value="Round ticks" type="string" />
+	</items252>
+	<items253 type="TTransItem" kind="class">
+		<name value="Curve: " type="string" />
+		<rus value="Кривая: " type="string" />
+		<eng value="Curve: " type="string" />
+	</items253>
+	<items254 type="TTransItem" kind="class">
+		<name value="Smooth" type="string" />
+		<rus value="Сглаживание" type="string" />
+		<eng value="Smooth" type="string" />
+	</items254>
+	<items255 type="TTransItem" kind="class">
+		<name value="Filter" type="string" />
+		<rus value="Фильтр" type="string" />
+		<eng value="Filter" type="string" />
+	</items255>
+	<items256 type="TTransItem" kind="class">
+		<name value="Ruler" type="string" />
+		<rus value="Рулетка" type="string" />
+		<eng value="" type="string" />
+	</items256>
+	<items257 type="TTransItem" kind="class">
+		<name value="isActive" type="string" />
+		<rus value="Используется" type="string" />
+		<eng value="Active" type="string" />
+	</items257>
+	<items258 type="TTransItem" kind="class">
+		<name value="false" type="string" />
+		<rus value="Нет" type="string" />
+		<eng value="No" type="string" />
+	</items258>
+	<items259 type="TTransItem" kind="class">
+		<name value="isLineRuler" type="string" />
+		<rus value="Линейка" type="string" />
+		<eng value="Ruler" type="string" />
+	</items259>
+	<items260 type="TTransItem" kind="class">
+		<name value="Wells" type="string" />
+		<rus value="Данные" type="string" />
+		<eng value="Datas" type="string" />
+	</items260>
+	<items261 type="TTransItem" kind="class">
+		<name value="isDeltaCoupling" type="string" />
+		<rus value="Длина трубы" type="string" />
+		<eng value="Lenght tube" type="string" />
+	</items261>
+	<items262 type="TTransItem" kind="class">
+		<name value="atlas" type="string" />
+		<rus value="Атлас" type="string" />
+		<eng value="Atlas" type="string" />
+	</items262>
+	<items263 type="TTransItem" kind="class">
+		<name value="Fix to avg values" type="string" />
+		<rus value="Исправить выбранное" type="string" />
+		<eng value="Fix selected" type="string" />
+	</items263>
+	<items264 type="TTransItem" kind="class">
+		<name value="Edit coupling" type="string" />
+		<rus value="Редактировать мутфы" type="string" />
+		<eng value="" type="string" />
+	</items264>
+	<items265 type="TTransItem" kind="class">
+		<name value="Delete selected" type="string" />
+		<rus value="Удалить выделенные" type="string" />
+		<eng value="" type="string" />
+	</items265>
+	<items266 type="TTransItem" kind="class">
+		<name value="Calculate manually" type="string" />
+		<rus value="Рассчитать вручную" type="string" />
+		<eng value="" type="string" />
+	</items266>
+	<items267 type="TTransItem" kind="class">
+		<name value="nameCoupling" type="string" />
+		<rus value="Муфты" type="string" />
+		<eng value="Couplings" type="string" />
+	</items267>
+	<items268 type="TTransItem" kind="class">
+		<name value="type" type="string" />
+		<rus value="Тип расчета" type="string" />
+		<eng value="Type calculate" type="string" />
+	</items268>
+	<items269 type="TTransItem" kind="class">
+		<name value="All" type="string" />
+		<rus value="По всей колонне" type="string" />
+		<eng value="All column" type="string" />
+	</items269>
+	<items270 type="TTransItem" kind="class">
+		<name value="Interval" type="string" />
+		<rus value="Интервал колонны" type="string" />
+		<eng value="Column interval" type="string" />
+	</items270>
+	<items271 type="TTransItem" kind="class">
+		<name value="start" type="string" />
+		<rus value="Начало" type="string" />
+		<eng value="Start" type="string" />
+	</items271>
+	<items272 type="TTransItem" kind="class">
+		<name value="beginInterval" type="string" />
+		<rus value="Начало интервала" type="string" />
+		<eng value="Begin interval" type="string" />
+	</items272>
+	<items273 type="TTransItem" kind="class">
+		<name value="endInterval" type="string" />
+		<rus value="Конец интервала" type="string" />
+		<eng value="End interval" type="string" />
+	</items273>
+	<items274 type="TTransItem" kind="class">
+		<name value="Apply" type="string" />
+		<rus value="Применить" type="string" />
+		<eng value="" type="string" />
+	</items274>
+	<items275 type="TTransItem" kind="class">
+		<name value="Inspect file" type="string" />
+		<rus value="Проверить файл" type="string" />
+		<eng value="" type="string" />
+	</items275>
+	<items276 type="TTransItem" kind="class">
+		<name value="Check for updates" type="string" />
+		<rus value="Проверить обновления" type="string" />
+		<eng value="" type="string" />
+	</items276>
+	<items277 type="TTransItem" kind="class">
+		<name value="Submit a bug report" type="string" />
+		<rus value="Отправить отчет об ошибке" type="string" />
+		<eng value="" type="string" />
+	</items277>
+	<items278 type="TTransItem" kind="class">
+		<name value="" type="string" />
+		<rus value="" type="string" />
+		<eng value="" type="string" />
+	</items278>
+	<items279 type="TTransItem" kind="class">
+		<name value="" type="string" />
+		<rus value="" type="string" />
+		<eng value="" type="string" />
+	</items279>
+	<items280 type="TTransItem" kind="class">
+		<name value="" type="string" />
+		<rus value="" type="string" />
+		<eng value="" type="string" />
+	</items280>
+	<items281 type="TTransItem" kind="class">
+		<name value="" type="string" />
+		<rus value="" type="string" />
+		<eng value="" type="string" />
+	</items281>
+</items>
