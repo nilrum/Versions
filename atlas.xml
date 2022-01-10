@@ -1,0 +1,887 @@
+<?xml version="1.0"?>
+<TApp type="TApp" kind="class">
+	<name value="atlas" type="string" />
+	<title value="Atlas" type="string" />
+	<lastSaveDir value="C:/Users/user/Desktop/Files" type="string" />
+	<lastOpenDir value="C:/CMakeProjects/Atlas/TestData/Container" type="string" />
+	<trans type="TTranslator" kind="class">
+		<name value="Translator" type="string" />
+		<lang value="lgRus" type="TLangEnum" kind="enum" />
+		<pathTrans value="C:\CMakeProjects\Atlas\cmake-build-debug" type="string" />
+		<loadingFiles value="trans.xml" type="string" />
+	</trans>
+	<globalCustoms type="TGlobalCustom" kind="class">
+		<name value="GlobalCustom" type="string" />
+		<customs kind="list">
+			<customs0 type="TFieldGrid" kind="class">
+				<name value="GridCustoms" type="string" />
+				<isUsed value="true" type="bool" />
+				<isSubTicks value="true" type="bool" />
+				<colorTicks value="18446462598732840960" type="unsigned int" />
+				<transpTicks value="100" type="int" />
+				<typeTickLine value="psSolid" type="TPenStyle" kind="enum" />
+				<typeSubTickLine value="psDot" type="TPenStyle" kind="enum" />
+			</customs0>
+			<customs1 type="TPlotCustom" kind="class">
+				<name value="PlotCustoms" type="string" />
+				<autoSerialization value="" type="string" />
+				<graphs kind="list">
+					<graphs0 type="TGraphCustom" kind="class">
+						<name value="ColumnID_1" type="string" />
+						<typeGraph value="TColumnGraph" type="string" />
+						<titleGraph value="" type="string" />
+						<colorGraph value="18446462601596174335" type="unsigned int" />
+						<indArray value="0" type="unsigned int" />
+						<indField value="-1" type="int" />
+						<createInfo value="" type="string" />
+					</graphs0>
+					<graphs1 type="TGraphCustom" kind="class">
+						<name value="ColumnID_2" type="string" />
+						<typeGraph value="TColumnGraph" type="string" />
+						<titleGraph value="" type="string" />
+						<colorGraph value="18446744072277895850" type="unsigned int" />
+						<indArray value="0" type="unsigned int" />
+						<indField value="-1" type="int" />
+						<createInfo value="" type="string" />
+					</graphs1>
+					<graphs2 type="TGraphCustom" kind="class">
+						<name value="ColumnID_3" type="string" />
+						<typeGraph value="TColumnGraph" type="string" />
+						<titleGraph value="" type="string" />
+						<colorGraph value="18446462600164540415" type="unsigned int" />
+						<indArray value="0" type="unsigned int" />
+						<indField value="-1" type="int" />
+						<createInfo value="" type="string" />
+					</graphs2>
+					<graphs3 type="TGraphCustom" kind="class">
+						<name value="ColumnID_4" type="string" />
+						<typeGraph value="TColumnGraph" type="string" />
+						<titleGraph value="" type="string" />
+						<colorGraph value="18446462600164496725" type="unsigned int" />
+						<indArray value="0" type="unsigned int" />
+						<indField value="-1" type="int" />
+						<createInfo value="" type="string" />
+					</graphs3>
+					<graphs4 type="TGraphCustom" kind="class">
+						<name value="ColumnID_5" type="string" />
+						<typeGraph value="TColumnGraph" type="string" />
+						<titleGraph value="" type="string" />
+						<colorGraph value="18446602785033704789" type="unsigned int" />
+						<indArray value="0" type="unsigned int" />
+						<indField value="-1" type="int" />
+						<createInfo value="" type="string" />
+					</graphs4>
+				</graphs>
+			</customs1>
+			<customs2 type="TUnitCustoms" kind="class">
+				<name value="UnitCustoms" type="string" />
+				<profiles kind="list">
+					<profiles0 type="TUnitProfile" kind="class">
+						<name value="Russian" type="string" />
+						<depth value="duMeter" type="TDepthUnit" kind="enum" />
+						<speed value="suInHour" type="TSpeedUnit" kind="enum" />
+						<tension value="tnuKN" type="TTensionUnit" kind="enum" />
+						<gr value="guMcRH" type="TGRUnit" kind="enum" />
+						<temp value="tuC" type="TTempUnit" kind="enum" />
+						<current value="cuMA" type="TCurrentUnit" kind="enum" />
+						<press value="puAtm" type="TPressUnit" kind="enum" />
+						<diameter value="wuMM" type="TWidthUnit" kind="enum" />
+						<thickness value="wuMM" type="TWidthUnit" kind="enum" />
+						<defaultStep value="0.020000" type="double" />
+					</profiles0>
+					<profiles1 type="TUnitProfile" kind="class">
+						<name value="English" type="string" />
+						<depth value="duFoot" type="TDepthUnit" kind="enum" />
+						<speed value="suInMinute" type="TSpeedUnit" kind="enum" />
+						<tension value="tnuKN" type="TTensionUnit" kind="enum" />
+						<gr value="guAPI" type="TGRUnit" kind="enum" />
+						<temp value="tuF" type="TTempUnit" kind="enum" />
+						<current value="cuMA" type="TCurrentUnit" kind="enum" />
+						<press value="puPsi" type="TPressUnit" kind="enum" />
+						<diameter value="wuInch" type="TWidthUnit" kind="enum" />
+						<thickness value="wuInch" type="TWidthUnit" kind="enum" />
+						<defaultStep value="0.065000" type="double" />
+					</profiles1>
+				</profiles>
+				<indProfile value="1" type="int" />
+			</customs2>
+			<customs3 type="TMIDExtensionCustoms" kind="class">
+				<name value="MIDExtensionCustoms" type="string" />
+				<eccentDelta value="0.500000" type="double" />
+				<power value="40" type="unsigned int" />
+			</customs3>
+			<customs4 type="TCalculationCustoms" kind="class">
+				<name value="Calculate customs" type="string" />
+				<recentFiles value="D:/Work/DataLog/MID_Soft/Data/TC-9N/Main.mdk;C:/Users/user/Desktop/Files/tc9n.atl;C:/Users/user/Desktop/на отправку/На отправку/вынгапур 2019/ПРОГОН 4/1.csv;C:/Users/user/Desktop/на отправку/На отправку/ВЫНГАПУР 2021/2 ПРОГОН/1.csv;D:/Work/DataLog/OTSK_2/OTSK_2.mdk;D:/Work/DataLog/MID_Soft/Тест/Example 1_Corrupted interval/MID_4_3.mdk;D:/Work/DataLog/MID_Soft/Example 1_Corrupted interval/MID_4_1.mdk;C:/Users/user/Desktop/Files/11.atl;D:/Work/DataLog/MID_Soft/Data/UTMN-206/main.mdk;C:/Users/user/Desktop/Files/D0647.mdk" type="string" />
+				<versions kind="list">
+					<versions0 type="TProfileList" kind="class">
+						<name value="MID4BK" type="string" />
+						<title value="" type="string" />
+						<profiles kind="list">
+							<profiles0 type="TProfile" kind="class">
+								<name value="default" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;0.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;stepDepth value=&quot;1.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;2&quot; type=&quot;int&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot; />&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list" />
+									</customs0>
+								</customs>
+							</profiles0>
+							<profiles1 type="TProfile" kind="class">
+								<name value="Top" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;5302.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;4&quot; type=&quot;int&quot; />&#10;&#09;&lt;isShowRuler value=&quot;false&quot; type=&quot;bool&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot;>&#10;&#09;&#09;&lt;fields0 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields0>&#10;&#09;&#09;&lt;fields1 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields1>&#10;&#09;&#09;&lt;fields2 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields2>&#10;&#09;&#09;&lt;fields3 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields3>&#10;&#09;&#09;&lt;fields4 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields4>&#10;&#09;&lt;/fields>&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list">
+											<graphs0 type="TGraphCustom" kind="class">
+												<name value="GR" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="GR" type="string" />
+												<colorGraph value="18446507856605468374" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs0>
+											<graphs1 type="TGraphCustom" kind="class">
+												<name value="IM" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IM" type="string" />
+												<colorGraph value="18446721994023807401" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs1>
+											<graphs2 type="TGraphCustom" kind="class">
+												<name value="IS" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IS" type="string" />
+												<colorGraph value="18446465910708485051" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs2>
+											<graphs3 type="TGraphCustom" kind="class">
+												<name value="TIn1" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TIn1" type="string" />
+												<colorGraph value="18446726410109149023" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs3>
+											<graphs4 type="TGraphCustom" kind="class">
+												<name value="Press" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="Press" type="string" />
+												<colorGraph value="18446546492278444048" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs4>
+											<graphs5 type="TGraphCustom" kind="class">
+												<name value="ZS" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZS" type="string" />
+												<colorGraph value="18446724202260137478" type="unsigned int" />
+												<indArray value="13" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs5>
+											<graphs6 type="TGraphCustom" kind="class">
+												<name value="ZM" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZM" type="string" />
+												<colorGraph value="18446462600164540415" type="unsigned int" />
+												<indArray value="9" type="unsigned int" />
+												<indField value="2" type="int" />
+												<createInfo value="" type="string" />
+											</graphs6>
+											<graphs7 type="TGraphCustom" kind="class">
+												<name value="MapZS" type="string" />
+												<typeGraph value="TColorMapGraph" type="string" />
+												<titleGraph value="MapZS" type="string" />
+												<colorGraph value="18446531037807140703" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="3" type="int" />
+												<createInfo value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TCalculateColorMap type=&quot;TCalculateColorMap&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;MapZS&quot; type=&quot;string&quot; />&#10;&#09;&lt;unit value=&quot;&quot; type=&quot;&quot; />&#10;&#09;&lt;comment value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;countArrays value=&quot;30&quot; type=&quot;unsigned int&quot; />&#10;&#09;&lt;keyDelta value=&quot;0.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;coefA value=&quot;1.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;coefB value=&quot;0.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;items kind=&quot;list&quot; />&#10;&#09;&lt;baseData value=&quot;Wells/WS-14E/ZS&quot; type=&quot;string&quot; />&#10;&#09;&lt;typeColorMap value=&quot;WithAll&quot; type=&quot;TTypeColorMap&quot; kind=&quot;enum&quot; />&#10;&#09;&lt;isDataStorable value=&quot;false&quot; type=&quot;bool&quot; />&#10;&lt;/TCalculateColorMap>&#10;" type="string" />
+											</graphs7>
+											<graphs8 type="TGraphCustom" kind="class">
+												<name value="MapZM" type="string" />
+												<typeGraph value="TColorMapGraph" type="string" />
+												<titleGraph value="MapZM" type="string" />
+												<colorGraph value="18446473638028349070" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="4" type="int" />
+												<createInfo value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TCalculateColorMap type=&quot;TCalculateColorMap&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;MapZM&quot; type=&quot;string&quot; />&#10;&#09;&lt;unit value=&quot;&quot; type=&quot;&quot; />&#10;&#09;&lt;comment value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;countArrays value=&quot;42&quot; type=&quot;unsigned int&quot; />&#10;&#09;&lt;keyDelta value=&quot;0.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;coefA value=&quot;1.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;coefB value=&quot;0.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;items kind=&quot;list&quot; />&#10;&#09;&lt;baseData value=&quot;Wells/WS-14E/ZM&quot; type=&quot;string&quot; />&#10;&#09;&lt;typeColorMap value=&quot;WithAll&quot; type=&quot;TTypeColorMap&quot; kind=&quot;enum&quot; />&#10;&#09;&lt;isDataStorable value=&quot;false&quot; type=&quot;bool&quot; />&#10;&lt;/TCalculateColorMap>&#10;" type="string" />
+											</graphs8>
+										</graphs>
+									</customs0>
+								</customs>
+							</profiles1>
+							<profiles2 type="TProfile" kind="class">
+								<name value="Bottom" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;13.600000&quot; type=&quot;double&quot; />&#10;&#09;&lt;stepDepth value=&quot;20.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;6&quot; type=&quot;int&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot;>&#10;&#09;&#09;&lt;fields0 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields0>&#10;&#09;&#09;&lt;fields1 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields1>&#10;&#09;&lt;/fields>&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list">
+											<graphs0 type="TGraphCustom" kind="class">
+												<name value="IL" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IL" type="string" />
+												<colorGraph value="18446507856605468374" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs0>
+											<graphs1 type="TGraphCustom" kind="class">
+												<name value="TOut" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TOut" type="string" />
+												<colorGraph value="18446721994023807401" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs1>
+											<graphs2 type="TGraphCustom" kind="class">
+												<name value="TIn2" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TIn2" type="string" />
+												<colorGraph value="18446465910708485051" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs2>
+											<graphs3 type="TGraphCustom" kind="class">
+												<name value="ZL" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZL" type="string" />
+												<colorGraph value="18446726410109149023" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs3>
+										</graphs>
+									</customs0>
+								</customs>
+							</profiles2>
+						</profiles>
+						<currentProfile value="1" type="unsigned int" />
+						<listCustoms kind="list">
+							<listCustoms0 type="TArrayWidgetCustom" kind="class">
+								<name value="DecayWidget" type="string" />
+								<rects kind="list">
+									<rects0 type="TArrayRectCustom" kind="class">
+										<name value="Wells/TC9N/ZM" type="string" />
+										<datas value="ZM" type="string" />
+									</rects0>
+									<rects1 type="TArrayRectCustom" kind="class">
+										<name value="Wells/TC9N/ZS" type="string" />
+										<datas value="ZS" type="string" />
+									</rects1>
+									<rects2 type="TArrayRectCustom" kind="class">
+										<name value="Wells/TC9N/Scan1" type="string" />
+										<datas value="Scan1,Scan2,Scan3,Scan4,Scan5,Scan6" type="string" />
+									</rects2>
+									<rects3 type="TArrayRectCustom" kind="class">
+										<name value="Wells/TC9N/ZL" type="string" />
+										<datas value="ZL" type="string" />
+									</rects3>
+								</rects>
+							</listCustoms0>
+						</listCustoms>
+						<isActive value="true" type="bool" />
+					</versions0>
+					<versions1 type="TProfileList" kind="class">
+						<name value="MIDK05" type="string" />
+						<title value="" type="string" />
+						<profiles kind="list">
+							<profiles0 type="TProfile" kind="class">
+								<name value="Short words" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;0.990000&quot; type=&quot;double&quot; />&#10;&#09;&lt;stepDepth value=&quot;1.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;2&quot; type=&quot;int&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot;>&#10;&#09;&#09;&lt;fields0 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields0>&#10;&#09;&#09;&lt;fields1 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields1>&#10;&#09;&lt;/fields>&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list">
+											<graphs0 type="TGraphCustom" kind="class">
+												<name value="GR" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="GR" type="string" />
+												<colorGraph value="18446507856605468374" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs0>
+											<graphs1 type="TGraphCustom" kind="class">
+												<name value="IM" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IM" type="string" />
+												<colorGraph value="18446721994023807401" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs1>
+											<graphs2 type="TGraphCustom" kind="class">
+												<name value="IL" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IL" type="string" />
+												<colorGraph value="18446465910708485051" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs2>
+											<graphs3 type="TGraphCustom" kind="class">
+												<name value="IS" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IS" type="string" />
+												<colorGraph value="18446726410109149023" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs3>
+											<graphs4 type="TGraphCustom" kind="class">
+												<name value="TOut" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TOut" type="string" />
+												<colorGraph value="18446546492278444048" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs4>
+											<graphs5 type="TGraphCustom" kind="class">
+												<name value="TIn" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TIn" type="string" />
+												<colorGraph value="18446723100289455316" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs5>
+											<graphs6 type="TGraphCustom" kind="class">
+												<name value="Press" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="Press" type="string" />
+												<colorGraph value="18446724202260137478" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs6>
+										</graphs>
+									</customs0>
+								</customs>
+							</profiles0>
+							<profiles1 type="TProfile" kind="class">
+								<name value="Decays" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;1.910000&quot; type=&quot;double&quot; />&#10;&#09;&lt;stepDepth value=&quot;10.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;5&quot; type=&quot;int&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot;>&#10;&#09;&#09;&lt;fields0 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields0>&#10;&#09;&#09;&lt;fields1 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields1>&#10;&#09;&#09;&lt;fields2 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields2>&#10;&#09;&lt;/fields>&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list">
+											<graphs0 type="TGraphCustom" kind="class">
+												<name value="ZM" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZM" type="string" />
+												<colorGraph value="18446538762684832153" type="unsigned int" />
+												<indArray value="14" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs0>
+											<graphs1 type="TGraphCustom" kind="class">
+												<name value="ZL" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZL" type="string" />
+												<colorGraph value="18446503441968550225" type="unsigned int" />
+												<indArray value="16" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs1>
+											<graphs2 type="TGraphCustom" kind="class">
+												<name value="ZS" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZS" type="string" />
+												<colorGraph value="18446574084596892933" type="unsigned int" />
+												<indArray value="15" type="unsigned int" />
+												<indField value="2" type="int" />
+												<createInfo value="" type="string" />
+											</graphs2>
+										</graphs>
+									</customs0>
+								</customs>
+							</profiles1>
+						</profiles>
+						<currentProfile value="0" type="unsigned int" />
+						<listCustoms kind="list" />
+						<isActive value="true" type="bool" />
+					</versions1>
+					<versions2 type="TProfileList" kind="class">
+						<name value="MIDS06" type="string" />
+						<title value="" type="string" />
+						<profiles kind="list">
+							<profiles0 type="TProfile" kind="class">
+								<name value="All" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;812.070000&quot; type=&quot;double&quot; />&#10;&#09;&lt;stepDepth value=&quot;5.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;4&quot; type=&quot;int&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot;>&#10;&#09;&#09;&lt;fields0 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields0>&#10;&#09;&#09;&lt;fields1 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields1>&#10;&#09;&#09;&lt;fields2 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields2>&#10;&#09;&#09;&lt;fields3 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&lt;/fields3>&#10;&#09;&lt;/fields>&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list">
+											<graphs0 type="TGraphCustom" kind="class">
+												<name value="GR" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="GR" type="string" />
+												<colorGraph value="18446696609823805006" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs0>
+											<graphs1 type="TGraphCustom" kind="class">
+												<name value="IL" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IL" type="string" />
+												<colorGraph value="18446692193216322138" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs1>
+											<graphs2 type="TGraphCustom" kind="class">
+												<name value="IS" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IS" type="string" />
+												<colorGraph value="18446550904927916433" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs2>
+											<graphs3 type="TGraphCustom" kind="class">
+												<name value="TOut" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TOut" type="string" />
+												<colorGraph value="18446517792700692214" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs3>
+											<graphs4 type="TGraphCustom" kind="class">
+												<name value="TIn" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TIn" type="string" />
+												<colorGraph value="18446648042165238265" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs4>
+											<graphs5 type="TGraphCustom" kind="class">
+												<name value="Press" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="Press" type="string" />
+												<colorGraph value="18446603887897100352" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs5>
+											<graphs6 type="TGraphCustom" kind="class">
+												<name value="ZL" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZL" type="string" />
+												<colorGraph value="18446544282037796157" type="unsigned int" />
+												<indArray value="13" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs6>
+											<graphs7 type="TGraphCustom" kind="class">
+												<name value="ZS" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZS" type="string" />
+												<colorGraph value="18446686675480227631" type="unsigned int" />
+												<indArray value="15" type="unsigned int" />
+												<indField value="2" type="int" />
+												<createInfo value="" type="string" />
+											</graphs7>
+											<graphs8 type="TGraphCustom" kind="class">
+												<name value="Scan1" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="Scan1" type="string" />
+												<colorGraph value="18446577394989299061" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="3" type="int" />
+												<createInfo value="" type="string" />
+											</graphs8>
+											<graphs9 type="TGraphCustom" kind="class">
+												<name value="Scan2" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="Scan2" type="string" />
+												<colorGraph value="18446624860138190133" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="3" type="int" />
+												<createInfo value="" type="string" />
+											</graphs9>
+											<graphs10 type="TGraphCustom" kind="class">
+												<name value="Scan3" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="Scan3" type="string" />
+												<colorGraph value="18446518896978824461" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="3" type="int" />
+												<createInfo value="" type="string" />
+											</graphs10>
+											<graphs11 type="TGraphCustom" kind="class">
+												<name value="Scan4" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="Scan4" type="string" />
+												<colorGraph value="18446546491907900677" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="3" type="int" />
+												<createInfo value="" type="string" />
+											</graphs11>
+											<graphs12 type="TGraphCustom" kind="class">
+												<name value="Scan5" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="Scan5" type="string" />
+												<colorGraph value="18446525516264574992" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="3" type="int" />
+												<createInfo value="" type="string" />
+											</graphs12>
+											<graphs13 type="TGraphCustom" kind="class">
+												<name value="Scan6" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="Scan6" type="string" />
+												<colorGraph value="18446589536777636747" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="3" type="int" />
+												<createInfo value="" type="string" />
+											</graphs13>
+										</graphs>
+									</customs0>
+								</customs>
+							</profiles0>
+						</profiles>
+						<currentProfile value="0" type="unsigned int" />
+						<listCustoms kind="list">
+							<listCustoms0 type="TArrayWidgetCustom" kind="class">
+								<name value="DecayWidget" type="string" />
+								<rects kind="list">
+									<rects0 type="TArrayRectCustom" kind="class">
+										<name value="Wells/71/ZL" type="string" />
+										<datas value="ZL" type="string" />
+									</rects0>
+									<rects1 type="TArrayRectCustom" kind="class">
+										<name value="Wells/71/ZS" type="string" />
+										<datas value="ZS" type="string" />
+									</rects1>
+									<rects2 type="TArrayRectCustom" kind="class">
+										<name value="Wells/71/Scan1" type="string" />
+										<datas value="Scan1,Scan2,Scan3,Scan4,Scan5,Scan6" type="string" />
+									</rects2>
+								</rects>
+							</listCustoms0>
+						</listCustoms>
+						<isActive value="true" type="bool" />
+					</versions2>
+					<versions3 type="TProfileList" kind="class">
+						<name value="MIDK04" type="string" />
+						<title value="" type="string" />
+						<profiles kind="list">
+							<profiles0 type="TProfile" kind="class">
+								<name value="All" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;8.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;5&quot; type=&quot;int&quot; />&#10;&#09;&lt;isShowRuler value=&quot;false&quot; type=&quot;bool&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot;>&#10;&#09;&#09;&lt;fields0 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields0>&#10;&#09;&#09;&lt;fields1 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields1>&#10;&#09;&#09;&lt;fields2 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields2>&#10;&#09;&#09;&lt;fields3 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields3>&#10;&#09;&#09;&lt;fields4 type=&quot;TConstructField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;ConstructionID&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;150&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;isTopHeaders value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&lt;grid type=&quot;TFieldGrid&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&#09;&lt;name value=&quot;GridCustoms&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isUsed value=&quot;false&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;isSubTicks value=&quot;true&quot; type=&quot;bool&quot; />&#10;&#09;&#09;&#09;&#09;&lt;colorTicks value=&quot;18446462598732840960&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;transpTicks value=&quot;100&quot; type=&quot;int&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeTickLine value=&quot;psSolid&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&#09;&lt;typeSubTickLine value=&quot;psDot&quot; type=&quot;TPenStyle&quot; kind=&quot;enum&quot; />&#10;&#09;&#09;&#09;&lt;/grid>&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields4>&#10;&#09;&lt;/fields>&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list">
+											<graphs0 type="TGraphCustom" kind="class">
+												<name value="GR" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="GR" type="string" />
+												<colorGraph value="18446507856605468374" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs0>
+											<graphs1 type="TGraphCustom" kind="class">
+												<name value="TOut" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TOut" type="string" />
+												<colorGraph value="18446726410109149023" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs1>
+											<graphs2 type="TGraphCustom" kind="class">
+												<name value="TIn" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TIn" type="string" />
+												<colorGraph value="18446546492278444048" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs2>
+											<graphs3 type="TGraphCustom" kind="class">
+												<name value="Press" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="Press" type="string" />
+												<colorGraph value="18446538762684832153" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs3>
+											<graphs4 type="TGraphCustom" kind="class">
+												<name value="IL" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IL" type="string" />
+												<colorGraph value="18446465910708485051" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs4>
+											<graphs5 type="TGraphCustom" kind="class">
+												<name value="IS" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IS" type="string" />
+												<colorGraph value="18446721994023807401" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs5>
+											<graphs6 type="TGraphCustom" kind="class">
+												<name value="ZS" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZS" type="string" />
+												<colorGraph value="18446462601596174335" type="unsigned int" />
+												<indArray value="9" type="unsigned int" />
+												<indField value="2" type="int" />
+												<createInfo value="" type="string" />
+											</graphs6>
+											<graphs7 type="TGraphCustom" kind="class">
+												<name value="ZL" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZL" type="string" />
+												<colorGraph value="18446724202260137478" type="unsigned int" />
+												<indArray value="9" type="unsigned int" />
+												<indField value="3" type="int" />
+												<createInfo value="" type="string" />
+											</graphs7>
+											<graphs8 type="TGraphCustom" kind="class">
+												<name value="ColumnID_1" type="string" />
+												<typeGraph value="TColumnGraph" type="string" />
+												<titleGraph value="ColumnID_1" type="string" />
+												<colorGraph value="18446462601596174335" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="4" type="int" />
+												<createInfo value="" type="string" />
+											</graphs8>
+										</graphs>
+									</customs0>
+								</customs>
+							</profiles0>
+							<profiles1 type="TProfile" kind="class">
+								<name value="default" type="string" />
+								<customs kind="list" />
+							</profiles1>
+						</profiles>
+						<currentProfile value="0" type="unsigned int" />
+						<listCustoms kind="list" />
+						<isActive value="true" type="bool" />
+					</versions3>
+					<versions4 type="TProfileList" kind="class">
+						<name value="MIDK07" type="string" />
+						<title value="" type="string" />
+						<profiles kind="list">
+							<profiles0 type="TProfile" kind="class">
+								<name value="default" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;652.020000&quot; type=&quot;double&quot; />&#10;&#09;&lt;stepDepth value=&quot;5.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;4&quot; type=&quot;int&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot; />&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list" />
+									</customs0>
+								</customs>
+							</profiles0>
+							<profiles1 type="TProfile" kind="class">
+								<name value="All" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;652.020000&quot; type=&quot;double&quot; />&#10;&#09;&lt;stepDepth value=&quot;5.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;4&quot; type=&quot;int&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot;>&#10;&#09;&#09;&lt;fields0 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields0>&#10;&#09;&#09;&lt;fields1 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields1>&#10;&#09;&#09;&lt;fields2 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields2>&#10;&#09;&lt;/fields>&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list">
+											<graphs0 type="TGraphCustom" kind="class">
+												<name value="GR" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="GR" type="string" />
+												<colorGraph value="18446648038965105876" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs0>
+											<graphs1 type="TGraphCustom" kind="class">
+												<name value="IGenKat" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IGenKat" type="string" />
+												<colorGraph value="18446601678869164786" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs1>
+											<graphs2 type="TGraphCustom" kind="class">
+												<name value="TOut" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TOut" type="string" />
+												<colorGraph value="18446592849241644317" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs2>
+											<graphs3 type="TGraphCustom" kind="class">
+												<name value="TIn" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TIn" type="string" />
+												<colorGraph value="18446706541085159279" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs3>
+											<graphs4 type="TGraphCustom" kind="class">
+												<name value="TX" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="TX" type="string" />
+												<colorGraph value="18446683362561476551" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs4>
+											<graphs5 type="TGraphCustom" kind="class">
+												<name value="TY" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="TY" type="string" />
+												<colorGraph value="18446673427527357909" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs5>
+											<graphs6 type="TGraphCustom" kind="class">
+												<name value="ZL" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZL" type="string" />
+												<colorGraph value="18446577395343026922" type="unsigned int" />
+												<indArray value="21" type="unsigned int" />
+												<indField value="2" type="int" />
+												<createInfo value="" type="string" />
+											</graphs6>
+										</graphs>
+									</customs0>
+								</customs>
+							</profiles1>
+						</profiles>
+						<currentProfile value="1" type="unsigned int" />
+						<listCustoms kind="list" />
+						<isActive value="true" type="bool" />
+					</versions4>
+					<versions5 type="TProfileList" kind="class">
+						<name value="MIDK06" type="string" />
+						<title value="" type="string" />
+						<profiles kind="list">
+							<profiles0 type="TProfile" kind="class">
+								<name value="default" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;2719.270000&quot; type=&quot;double&quot; />&#10;&#09;&lt;stepDepth value=&quot;5.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;4&quot; type=&quot;int&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot; />&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list" />
+									</customs0>
+								</customs>
+							</profiles0>
+							<profiles1 type="TProfile" kind="class">
+								<name value="All" type="string" />
+								<customs kind="list">
+									<customs0 type="TPlotCustom" kind="class">
+										<name value="PlotWidget" type="string" />
+										<autoSerialization value="&lt;?xml version=&quot;1.0&quot;?>&#10;&lt;TPlotWidgetQt type=&quot;TPlotWidgetQt&quot; kind=&quot;class&quot;>&#10;&#09;&lt;name value=&quot;PlotWidget&quot; type=&quot;string&quot; />&#10;&#09;&lt;title value=&quot;&quot; type=&quot;string&quot; />&#10;&#09;&lt;depth value=&quot;0.010000&quot; type=&quot;double&quot; />&#10;&#09;&lt;stepDepth value=&quot;5.000000&quot; type=&quot;double&quot; />&#10;&#09;&lt;scaleIndex value=&quot;4&quot; type=&quot;int&quot; />&#10;&#09;&lt;fields kind=&quot;list&quot;>&#10;&#09;&#09;&lt;fields0 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields0>&#10;&#09;&#09;&lt;fields1 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields1>&#10;&#09;&#09;&lt;fields2 type=&quot;TRectField&quot; kind=&quot;class&quot;>&#10;&#09;&#09;&#09;&lt;name value=&quot;RectField&quot; type=&quot;string&quot; />&#10;&#09;&#09;&#09;&lt;width value=&quot;0&quot; type=&quot;unsigned int&quot; />&#10;&#09;&#09;&#09;&lt;textItems kind=&quot;list&quot; />&#10;&#09;&#09;&lt;/fields2>&#10;&#09;&lt;/fields>&#10;&lt;/TPlotWidgetQt>&#10;" type="string" />
+										<graphs kind="list">
+											<graphs0 type="TGraphCustom" kind="class">
+												<name value="GR" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="GR" type="string" />
+												<colorGraph value="18446724202260137478" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs0>
+											<graphs1 type="TGraphCustom" kind="class">
+												<name value="IGenKat" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="IGenKat" type="string" />
+												<colorGraph value="18446538762684832153" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs1>
+											<graphs2 type="TGraphCustom" kind="class">
+												<name value="TOut" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TOut" type="string" />
+												<colorGraph value="18446503441968550225" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs2>
+											<graphs3 type="TGraphCustom" kind="class">
+												<name value="TIn" type="string" />
+												<typeGraph value="TLineGraph" type="string" />
+												<titleGraph value="TIn" type="string" />
+												<colorGraph value="18446574084596892933" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="0" type="int" />
+												<createInfo value="" type="string" />
+											</graphs3>
+											<graphs4 type="TGraphCustom" kind="class">
+												<name value="TX" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="TX" type="string" />
+												<colorGraph value="18446564149798628588" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs4>
+											<graphs5 type="TGraphCustom" kind="class">
+												<name value="TY" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="TY" type="string" />
+												<colorGraph value="18446532139963127318" type="unsigned int" />
+												<indArray value="0" type="unsigned int" />
+												<indField value="1" type="int" />
+												<createInfo value="" type="string" />
+											</graphs5>
+											<graphs6 type="TGraphCustom" kind="class">
+												<name value="ZL" type="string" />
+												<typeGraph value="TArrayGraph" type="string" />
+												<titleGraph value="ZL" type="string" />
+												<colorGraph value="18446646935006924237" type="unsigned int" />
+												<indArray value="10" type="unsigned int" />
+												<indField value="2" type="int" />
+												<createInfo value="" type="string" />
+											</graphs6>
+										</graphs>
+									</customs0>
+								</customs>
+							</profiles1>
+						</profiles>
+						<currentProfile value="1" type="unsigned int" />
+						<listCustoms kind="list" />
+						<isActive value="true" type="bool" />
+					</versions5>
+				</versions>
+				<extensions value="TMIDExtension" type="string" />
+				<isAutoSave value="false" type="bool" />
+				<intervalSave value="1" type="unsigned int" />
+			</customs4>
+		</customs>
+	</globalCustoms>
+	<appItems kind="list">
+		<appItems0 type="TConfigCreater" kind="class">
+			<name value="Calculate creater" type="string" />
+			<title value="" type="string" />
+			<typeConfig value="TCalculationConfig" type="string" />
+		</appItems0>
+	</appItems>
+</TApp>
