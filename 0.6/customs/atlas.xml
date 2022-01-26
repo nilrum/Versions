@@ -3,7 +3,7 @@
 	<name value="atlas" type="string" />
 	<title value="Atlas" type="string" />
 	<lastSaveDir value="C:/Users/user/Desktop/Files" type="string" />
-	<lastOpenDir value="" type="string" />
+	<lastOpenDir value="C:/Users/user/Desktop/Files" type="string" />
 	<trans type="TTranslator" kind="class">
 		<name value="Translator" type="string" />
 		<lang value="lgRus" type="TLangEnum" kind="enum" />
